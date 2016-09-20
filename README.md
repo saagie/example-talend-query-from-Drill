@@ -1,1 +1,10 @@
-# example-talend-query-from-Drill
+# Example-Talend : Query from Drill
+
+## Usage
+
+- Open "Talend"
+- Click on right on "Job Designs"
+- Click on "Import Items"
+- Tick "Select a file archive"
+- Add a ".zip"
+- Click on "Finish"
